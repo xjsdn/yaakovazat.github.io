@@ -84,7 +84,7 @@ service-worker: true
 
 
 
-# Friends
+# Friends######
 friends: [
     {
     #     title: "Su",
@@ -121,3 +121,4 @@ friends: [
         href: "http://wepiaofei.github.io/blog/"
     }
 ]
+#####

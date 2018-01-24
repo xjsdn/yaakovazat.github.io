@@ -14,8 +14,8 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: true
 weibo_username:     huxpro
 zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+github_username:    yaakovazat
+twitter_username:   yaakovazat
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 

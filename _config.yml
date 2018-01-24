@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: yaakovazat@gmail.com
 description: "关于前端与设计、黑客与画家 | Yaakov Azat，Uyghur from China, Student @ KazNU, Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Yaakov小酷 的个人博客，与你一起发现更大的世界。"
 keyword: "Yaakov Azat, Yaakov, Biryol, Biryol.Biz, yaakovazat, @yaakovazat, 小酷博客, Yaakov's Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "http://yaakovazat"                # your host, for absolute URL
+url: "http://yaakovazat.com"            # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 

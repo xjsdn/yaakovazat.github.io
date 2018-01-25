@@ -2,7 +2,7 @@
 layout:     keynote
 title:      "The first step to markdown"
 subtitle:   "Mysterious Markdown, Work with Yaakov"
-iframe:     "http://yaakovazat.com/firststeptomarkdown/"
+iframe:     "http://yaakovazat.com/firststeptomarkdown"
 navcolor:   "invert"
 date:       2018-01-25
 author:     "Yaakov Azat"

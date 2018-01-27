@@ -4,7 +4,7 @@ title:      "An aggregate of Network Technologies's homeworks"
 subtitle:   ""
 date:       2018-01-29 01:05:00
 author:     "Yaakov Azat"
-header-img: ""
+header-img: "img/post-bg-universe.jpg"
 ---
 
 # An aggregate of Network Technologies's homeworks
